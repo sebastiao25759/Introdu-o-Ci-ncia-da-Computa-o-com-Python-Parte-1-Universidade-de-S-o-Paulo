@@ -14,6 +14,9 @@ Este curso é uma introdução à ciência da computação usando a linguagem de
 - **Semana 4**: Estruturas de repetição
 - **Semana 5**: Funções
 - **Semana 6**: Refatoração, depuração e desenvolvimento de programas completos
+- **Semana 7**: Repetições aninhadas e casos complexos de estruturas de repetição
+- **Semana 8**: Listas, o comando "for" e mais sobre conjuntos de dados em Python
+- **Semana 9**: Armazenamento de objetos na memória do computador e desenvolvimento de um programa completo
 
 ## Pré-requisitos
 
@@ -29,4 +32,4 @@ Os alunos que completarem o curso com sucesso e cumprirem os requisitos estabele
 
 ## Contato
 
-Para mais informações sobre o curso, visite [a página do curso na Coursera.org](https://coursera.org/share/99f27439bca2086ca650f69dcb81cef5).
+Para mais informações sobre o curso, visite [a página do curso na Coursera.org](https://www.coursera.org/learn/ciencia-computacao-python-conceitos?utm_source=mobile&utm_source=link&utm_medium=page_share&utm_content=lih&utm_campaign=card_button#recommendations) ou entre em contato com os instrutores.
